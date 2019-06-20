@@ -5,6 +5,6 @@ def my_each(array)
      yield array[count]
       count += 1
     end
-  else 
+  else
   end
 end
